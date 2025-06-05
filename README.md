@@ -53,10 +53,9 @@ Made to feel like your digital fashion BFF—where dressing up = data contributi
 
 ---
 
-## 📽️ Demo Time!
+## 📽️ Sneak Peek into Trendcraft!
 
-[![Watch Demo](https://img.shields.io/badge/🎬%20Video%20Demo-Myntra%20Weforshe%20.mp4-FF69B4?style=for-the-badge)](./Myntra%20Weforshe.mp4)
-
+[![Watch the Preview](./MyntraWeforshe-ezgif.gif)](./Myntra%20Weforshe.mp4)
 > ⚠️ Note: This is a proof-of-concept using a sample dataset. In future iterations, user interactions will refine the ML predictions dynamically!
 
 ---
